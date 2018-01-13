@@ -656,11 +656,13 @@ button.trigger span::before {
 }
 
 .intro-effect-side .codrops-demos a {
-	color: #43939d;
+	/*color: #43939d;*/
+	color:#fff;
 }
 
 .intro-effect-side .codrops-demos a.current-demo {
 	border-bottom: 3px solid #43939d;
+	border-bottom: 3px solid #FFF;
 }
 
 .intro-effect-side .title {
@@ -919,7 +921,8 @@ button.trigger span::before {
 }
 
 .intro-effect-push .codrops-demos a {
-	color: #108576;
+/*	color: #108576;
+*/	color: #fff;
 }
 
 .intro-effect-push .header {
