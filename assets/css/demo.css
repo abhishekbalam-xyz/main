@@ -20,7 +20,7 @@
 
 body {
 	background: #fff;
-	color: #69606b;
+	color: #fff;
 	font-weight: 400;
 	font-size: 22px;
 	line-height: 1.5;
@@ -148,10 +148,11 @@ a:hover, a:focus {
 .codrops-demos a.current-demo {
 	opacity: 1;
 	/*color: #69606b;*/
+	color: #F5F5F5;
 }
 
 .codrops-demos a.current-demo {
-	border-bottom: 3px solid #69606b;
+	border-bottom: 3px solid #F5F5F5;
 }
 
 .related {

@@ -166,11 +166,15 @@ button.trigger span::before {
 }
 
 .content > div:not(.title) p {
-	margin: 0 auto 1.5em auto;
+	margin: 0 auto 2.0em auto;
+	color: #f0f0f0;
+	font-size: 1.25em;
 }
 
 .content > div:not(.title) p:first-child {
-	font-size: 1.35em;
+	font-size: 1.10em;
+	color:#D0D0D0;
+	margin-top: -20px;
 }
 
 .content h3 {
@@ -184,6 +188,7 @@ button.trigger span::before {
 	font-size: 1.65em;
 	font-family: 'Lora', serif;
 	line-height: 1.4;
+	border-left: solid 2px #fff 
 }
 
 .content blockquote::before {
@@ -940,6 +945,7 @@ button.trigger span::before {
 .intro-effect-push .content > div {
 	margin-top: 50px;
 	color: #b2b2c0;
+	color: #f5f5f5;
 }
 
 .intro-effect-push > .title,
