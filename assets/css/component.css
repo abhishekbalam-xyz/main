@@ -1264,7 +1264,7 @@ button.trigger span::before {
 	}
 	.title, .content {
 		font-size: 50%;
-		font-size: 20px;
+		font-size: 18px;
 	}
 
 	button.trigger::before {
