@@ -1,0 +1,31 @@
+{
+	"date": "29-06-18", 
+	"intro": "Welcome, this is my first newsletter broadcast.<br> Here I will forward you links for my latest blog, once a month for now.<br> Please go though the links and send me any feedback.<br> Happy Reading! :)",
+	"posts":[
+		{
+			"title" : "Why Hobbies are important",
+			"subtitle" : "A post to discuss that they aren't just fun, but vital in adult life.",
+			"url" : "https://thoughts.abhishekbalam.xyz/hobbies"
+		},
+		{
+			"title" : "Why I Use Linux",
+			"subtitle" : "Linux is really awesome, a fanpost to convince you to start using it too!",
+			"url" : "https://make.abhishekbalam.xyz/blog/why-I-love-using-linux/"
+		},
+		{
+			"title" : "What I learned in Yoga",
+			"subtitle" : "I had attended a yoga class for a few months, my experience shared..",
+			"url" : "https://thoughts.abhishekbalam.xyz/yoga-priorities"
+		},
+		{
+			"title" : "Getting out of the Doldrums of life",
+			"subtitle" : "How i learned to get moving when there is no wind in the sails.",
+			"url" : "https://thoughts.abhishekbalam.xyz/doldrums-of-life"
+		},
+		{
+			"title" : "Goodness",
+			"subtitle" : "My observations on how people misunderstand this simple virtue.",
+			"url" : "https://thoughts.abhishekbalam.xyz/fear-of-wrongdoing-vs-appreciation-of-goodness"
+		}		
+	]
+}
