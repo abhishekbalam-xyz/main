@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/abhishekbalam
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://abhishekbalam.xyz
+  * I am abhishekbalam (https://keybase.io/abhishekbalam) on keybase.
+  * I have a public key ASD_wwWBwLm3TAKj3LBUMTcbEr46asiChDO00wvaf5gagwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ffc30581c0b9b74c02a3dcb05431371b12be3a6ac8828433b4d30bda7f981a830a",
+      "host": "keybase.io",
+      "kid": "0120ffc30581c0b9b74c02a3dcb05431371b12be3a6ac8828433b4d30bda7f981a830a",
+      "uid": "9e979f9fc4ff947f58abab0a0bfd6619",
+      "username": "abhishekbalam"
+    },
+    "merkle_root": {
+      "ctime": 1530427504,
+      "hash": "bd6a09b00dc0455519d4b5fd56cbd6fb4b0c1591a4be7942354bf6af75a6a51d537ebdb4cdce6a010c77bed78eda26fb1a5dd7e2d1b1b2bbfd3782c0bfec1e83",
+      "hash_meta": "75949b43682c80456b807bbcc2c38a23426e0b2883b4d51eaefe55a144211e10",
+      "seqno": 3181792
+    },
+    "service": {
+      "entropy": "7fl92vWqoiPgfFZxqgs581G1",
+      "hostname": "abhishekbalam.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.3.0"
+  },
+  "ctime": 1530427549,
+  "expire_in": 504576000,
+  "prev": "b784f79a41f2ab8136197e0480a4986da393cfebb4df7a6d592ffcd058d4cb2a",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg/8MFgcC5t0wCo9ywVDE3GxK+OmrIgoQztNML2n+YGoMKp3BheWxvYWTESpcCBcQgt4T3mkHyq4E2GX4EgKSYbaOTz+u033ptWS/80FjUyyrEIFwUOuLKKx9x++daB2uvt0PE4NekbDCFo7eHfjgDxC8EAgHCo3NpZ8RAlDMz1iTKrbIzVjQYMeprhtTft20rk/plAor35H12YaGjCkWXLRwm0kXn2wOVfSy7vI4RV4qLKP1E5wrNQro7D6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINZxLcnPCEnyhG+IfjGN+NdLvXbU/epKEUM4FphEsjxso3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/abhishekbalam
+
+==================================================================
